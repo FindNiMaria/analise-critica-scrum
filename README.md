@@ -1,8 +1,8 @@
-# analise-critica-scrum - Projeto FBI
+# analise-critica-scrum - Caso de Uso FBI
 
-Por que a abordagem ágil foi utilizada e não a tradicional para o projeto? 
+##Por que a abordagem ágil foi utilizada e não a tradicional para o projeto? 
 
-## A abordagem tradicional foi a primeira a ser abordada pelo FBI, em parceria com a Lockheed Martin. 
+ A abordagem tradicional foi a primeira a ser abordada pelo FBI, em parceria com a Lockheed Martin. 
 
 Porém depois de quase 90% do orçamento ser gasto e o projeto ter entregado apenas metade do que foi proposto, e essas entregas por si só não terem gerado valor para a base de dados do FBI, o projeto foi cancelado. 
 
